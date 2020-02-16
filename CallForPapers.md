@@ -1,9 +1,9 @@
+#### Brazilian Congress on Software: Theory and Practice (CBSoft 2020)
+##### Natal, Brazil
+###### http:// LINK TBD
+
 Tools Session
 =============
-
-Brazilian Congress on Software: Theory and Practice (CBSoft 2020)
-http:// …  link aqui logo que o Everton nos enviar (LINK)
-Natal, Brazil
 
 Call for Papers
 ---------------
