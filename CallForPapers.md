@@ -11,26 +11,6 @@ The goal of the Tools Session is to provide a forum for presentation and demonst
 It consists of both theoretical presentations and practical exhibitions of the tools, creating a great opportunity for the authors to present and discuss their tools with CBSoft attendees from the academia and industry.
 Academics can present results of their applied research projects in the areas of Software Engineering and Programming Languages, while industry professionals are also welcome to present commercial or in-house tools that have brought gains in productivity and/or quality to the software development processes. 
 
-<!--
-#### TOPICS OF INTEREST
-
-A non-exhaustive list of topics of interest includes (in alphabetical order):
-- Programming Languages Environments and Compilers
-- Software Architecture
-- Object-oriented/aspect-oriented software development
-- Model-Driven Development
-- Distributed Software Development
-- Software Product Line
-- Requirements Engineering
-- Experimental Software Engineering
-- Configuration Management
-- Software Maintenance, Reengineering, and Refactoring
-- Metrics and Measurements in Software Engineering
-- Software Processes
-- Software Reuse
-- Software Verification, Validation, and Testing
--->
-
 ### SUBMISSION
 
 We invite authors to submit papers describing automated solutions for diverse aspects and needs related to the topics of interest and themes listed in the CFP of the four symposia of CBSoft: SBES, SBLP, SBCARS, and SAST.
@@ -57,7 +37,7 @@ IMPORTANT: Papers not following these instructions will be automatically rejecte
    
 4. Authors are encouraged to make their code and datasets open source, and to provide a URL for the code and datasets with the submission;
    
-Papers must be submitted electronically through the Tools Session submission site (http:// ...).
+Papers must be submitted electronically through the Tools Track submission site (http:// ...).
 The submission site will be defined soon.  
 
 ### GENERAL INFORMATION
@@ -65,11 +45,12 @@ The submission site will be defined soon.
 - The acceptance of the paper implies in at least one author to register for and attend CBSoft 2020 to present the paper and the tool in person.
 
 - The Tools Session is traditionally held in two days:
+
    - 1st day: the authors will make oral presentations (theoretical presentation).
    - 2nd day: the authors will demonstrate their tools (practical demonstration). Note that the practical demonstration is to actually display the tool running. Video submitted for submission should not be used in this demonstration. Both theoretical presentation and practice are mandatory for all accepted tools. 
 The format and timing of each presentation will be announced later.
 
-- The three best tools will be awarded during the CBSoft 2020.
+- Each submission will be reviewed by at least three members of the Tools Session program committee. The three tools with the best scores from the program committee and available for the CBSOFT 2020 audience will be awarded.
 
 ### IMPORTANT DATES
 
