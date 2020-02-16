@@ -1,6 +1,6 @@
-## Tools Session @ CBSoft 2020 (http:// LINK TBD)
+## TOOLS SESSION @ CBSOFT 2020 (http:// LINK TBD)
 
-### Call for Papers
+### CALL FOR PAPERS
 
 The Tools Session is an important part of the Brazilian Conference on Software - Theory and Practice (CBSoft), which integrates four traditional events organized by the Brazilian software development community: Brazilian Symposium on Software Engineering (SBES), Brazilian Symposium on Programming Languages (SBLP), Brazilian Symposium on Components, Architectures and Software Reuse (SBCARS), and Brazilian Symposium on Systematic and Automated Software Testing (SAST).
 <!-- 
@@ -8,7 +8,7 @@ This session was promoted over the years inside SBES or SBCARS and, since 2010, 
 -->
 
 The goal of the Tools Session is to provide a forum for presentation and demonstration of automated solutions that support the process of developing and managing software systems. 
-It consists of both theoretical presentations and practical exhibitions of the tools, creating a great opportunity to the authors present and discuss their tools with CBSoft attendees from the academia and industry.
+It consists of both theoretical presentations and practical exhibitions of the tools, creating a great opportunity for the authors to present and discuss their tools with CBSoft attendees from the academia and industry.
 Academics can present results of their applied research projects in the areas of Software Engineering and Programming Languages, while industry professionals are also welcome to present commercial or in-house tools that have brought gains in productivity and/or quality to the software development processes. 
 
 <!--
@@ -31,7 +31,7 @@ A non-exhaustive list of topics of interest includes (in alphabetical order):
 - Software Verification, Validation, and Testing
 -->
 
-### Submission
+### SUBMISSION
 
 We invite authors to submit papers describing automated solutions for diverse aspects and needs related to the topics of interest and themes listed in the CFP of the four symposia of CBSoft: SBES, SBLP, SBCARS, and SAST.
 Each submission consists of a short paper accompanied by a video about the tool. Submissions must conform to the following submission and formatting instructions:
@@ -60,7 +60,7 @@ IMPORTANT: Papers not following these instructions will be automatically rejecte
 Papers must be submitted electronically through the Tools Session submission site (http:// ...).
 The submission site will be defined soon.  
 
-### General Information
+### GENERAL INFORMATION
 
 - The acceptance of the paper implies in at least one author to register for and attend CBSoft 2020 to present the paper and the tool in person.
 
@@ -71,7 +71,7 @@ The format and timing of each presentation will be announced later.
 
 - The three best tools will be awarded during the CBSoft 2020.
 
-### Important Dates
+### IMPORTANT DATES
 
 - Abstract submission: June 8th, 2020 (Monday) 
 - Paper/video submission: June 15th, 2020 (Monday)
@@ -79,11 +79,11 @@ The format and timing of each presentation will be announced later.
 - Camera-ready version: July 17th, 2020 (Friday)
 - CBSOFT 2020: September 21-25, 2020.
 
-### Program Co-chairs
+### PROGRAM CO-CHAIRS
 
 - Christina von Flach G. Chavez (UFBA)
 - Elisa Yumi Nakagawa (ICMC/USP)
 
-### Program Committee  
+### PROGRAM COMMITTEE
 
 TBD.
