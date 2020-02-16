@@ -1,14 +1,13 @@
-#### Brazilian Congress on Software: Theory and Practice (CBSoft 2020)
-Natal, Brazil 
+# Brazilian Conference on Software: Theory and Practice (CBSoft 2020)
+## Tools Session   
 http:// LINK TBD
 
-Tools Session
-=============
+## Call for Papers
 
-Call for Papers
----------------
-
-The Tools Session is an important part of CBSoft 2020, a conference that integrates four traditional events organized by the Brazilian software development community: SBES (Brazilian Symposium on Software Engineering), SBLP (Brazilian Symposium on Programming Languages), SBCARS (Brazilian Symposium on Components, Architectures and Software Reuse), and SAST (Brazilian Symposium on Systematic and Automated Software Testing). This session was promoted over the years inside SBES or SBCARS and, since 2010, it has been part of CBSoft aggregating researchers and professionals of all communities linked to CBSoft.
+The Tools Session is an important part of the Brazilian Conference on Software: Theory and Practice (CBSoft), which integrates four traditional events organized by the Brazilian software development community: SBES (Brazilian Symposium on Software Engineering), SBLP (Brazilian Symposium on Programming Languages), SBCARS (Brazilian Symposium on Components, Architectures and Software Reuse), and SAST (Brazilian Symposium on Systematic and Automated Software Testing).
+<!-- 
+This session was promoted over the years inside SBES or SBCARS and, since 2010, it has been part of CBSoft aggregating researchers and professionals of all communities linked to CBSoft.
+-->
 
 The goal of the Tools Session is to provide a forum for presentation and demonstration of automated solutions that support the process of developing and managing software systems. 
 The audience includes members from the academia and industry. 
@@ -52,7 +51,8 @@ Each submission consists of a short paper accompanied by a video about the tool.
    e) A brief comparison with other existing related tools; and
    f) Type of license.
 
-2. Papers may be written in Portuguese or English and must have up to six pages including all figures (in good quality), references and appendices, and formatted according to the SBC template (http://goo.gl/bGc1bh). Papers must be submitted in PDF format. Papers in Portuguese must also include an abstract in English. IMPORTANT: Papers not following these instructions will be automatically rejected (before the review process).
+2. Papers may be written in Portuguese or English and must have up to six pages including all figures (in good quality), references and appendices, and formatted according to the SBC template (http://goo.gl/bGc1bh). Papers must be submitted in PDF format. Papers in Portuguese must also include an abstract in English.  
+IMPORTANT: Papers not following these instructions will be automatically rejected (before the review process).
 
 3. Papers must be accompanied by a video with audio commentary and with high resolution (details of the tool’s functionality should be clearly visible). The video should demonstrate tool usage and highlight the main contributions it provides. It must conform to the following guidelines:
 
