@@ -1,6 +1,6 @@
 #### Brazilian Congress on Software: Theory and Practice (CBSoft 2020)
-##### Natal, Brazil
-###### http:// LINK TBD
+Natal, Brazil 
+http:// LINK TBD
 
 Tools Session
 =============
@@ -38,8 +38,8 @@ A non-exhaustive list of topics of interest includes (in alphabetical order):
 - Software Verification, Validation, and Testing
 -->
 
-Submission Format
------------------
+Submissions
+-----------
 
 Each submission consists of a short paper accompanied by a video about the tool. Submissions must conform to the following submission and formatting instructions.
 
@@ -61,7 +61,10 @@ Each submission consists of a short paper accompanied by a video about the tool.
    c) There should be an announcer presenting the tool. The speech can be in Portuguese or English;
    d) There should be a brief introduction, giving an overview of the tool and its objectives, the tool's features, and the tool's outputs as well.
    
-- The submission site will be defined soon.  Papers must be submitted electronically through the Tools Session submission site (LINK AQUI).
+4. Authors are encouraged to make their code and datasets open source, and to provide a URL for the code and datasets with the submission;
+   
+Papers must be submitted electronically through the Tools Session submission site (http:// ...).
+The submission site will be defined soon.  
 
 Important Dates
 ---------------
@@ -82,7 +85,7 @@ General Information
    - 2nd day: the authors will demonstrate their tools (practical demonstration). Note that the practical demonstration is to actually display the tool running. Video submitted for submission should not be used in this demonstration. Both theoretical presentation and practice are mandatory for all accepted tools. 
 The format and timing of each presentation will be announced later.
 
-- The three best tools will be awarded during the CBSoft 2020
+- The three best tools will be awarded during the CBSoft 2020.
 
 
 Program Co-chairs
