@@ -1,5 +1,7 @@
 ## TOOLS SESSION @ CBSOFT 2020 (http:// LINK TBD)
 
+Venue: Natal-Brazil,  September 21-25, 2020.
+
 ### CALL FOR PAPERS
 
 The Tools Session is an important part of the Brazilian Conference on Software - Theory and Practice (CBSoft), which integrates four traditional events organized by the Brazilian software development community: Brazilian Symposium on Software Engineering (SBES), Brazilian Symposium on Programming Languages (SBLP), Brazilian Symposium on Components, Architectures and Software Reuse (SBCARS), and Brazilian Symposium on Systematic and Automated Software Testing (SAST).
