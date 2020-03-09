@@ -57,7 +57,6 @@ O vídeo de demonstração (com duração de três a cinco minutos) deve mostrar
 o uso da ferramenta e destacar suas principais contribuições. 
 Deve também fornecer uma visão geral da ferramenta, seus objetivos e usuários em potencial, 
 além das principais características e resultados.
-
 Deve haver um locutor apresentando a ferramenta no mesmo idioma em que o artigo está escrito.
 
 5. Os autores são incentivados a disponibilizar o código como código aberto ("open source"), 
