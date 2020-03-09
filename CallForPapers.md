@@ -12,11 +12,11 @@ The Tools Track is an important part of the Brazilian Symposium on Software Engi
  
 ### IMPORTANT DATES
 
-- Paper registration (abstract submission) deadline: June 1st, 2020
-- Paper and video upload deadline: June 8th, 2020
-- Rebuttal period: July 06th - July­ 10th, 2020
-- Notification of acceptance: July 17th, 2020
-- Camera-ready deadline: August 7th, 2020
+   - Paper registration (abstract submission) deadline: June 1st, 2020
+   - Paper and video upload deadline: June 8th, 2020
+   - Rebuttal period: July 06th - July­ 10th, 2020
+   - Notification of acceptance: July 17th, 2020
+   - Camera-ready deadline: August 7th, 2020
 
 
 ### MANUSCRIPT/VIDEO PREPARATION AND SUBMISSION
@@ -38,7 +38,6 @@ Each submission consists of a paper accompanied by a demo video about the tool. 
 
 4. A demo video with audio commentary and with high resolution (details of the tool’s functionality should be clearly visible) MUST accompany the paper submission. 
 The demo video (between three to five minutes long) should demonstrate tool usage and highlight its main contributions. It should provide an overview of the tool, its objectives and envisioned users, main features and outputs as well.
-
 There should be an announcer presenting the tool and the speech must be in the same language in which the paper is written. 
 
 5. Authors are encouraged to make the code and datasets of their academic tools open source and provide a URL for them with the submission.
