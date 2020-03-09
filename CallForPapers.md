@@ -1,72 +1,73 @@
-## TOOLS SESSION @ CBSOFT 2020 (http:// LINK TBD)
+## SBES Tools Track - CBSOFT 2020
 
-Venue: Natal-Brazil,  September 21-25, 2020.
+September 21-25, 2020 -- Natal, RN, Brazil
+
+http://cbsoft2020.imd.ufrn.br/
+
 
 ### CALL FOR PAPERS
 
-The Tools Session is an important part of the Brazilian Conference on Software - Theory and Practice (CBSoft), which integrates four traditional events organized by the Brazilian software development community: Brazilian Symposium on Software Engineering (SBES), Brazilian Symposium on Programming Languages (SBLP), Brazilian Symposium on Components, Architectures and Software Reuse (SBCARS), and Brazilian Symposium on Systematic and Automated Software Testing (SAST).
-<!-- 
-This session was promoted over the years inside SBES or SBCARS and, since 2010, it has been part of CBSoft aggregating researchers and professionals of all communities linked to CBSoft.
--->
+The Tools Track is an important part of the Brazilian Symposium on Software Engineering (SBES). The goal of this track is to provide a forum for presentation and demonstration of automated solutions that support the process of developing and managing software systems. It consists of both theoretical presentations and practical exhibitions of the tools, creating a great opportunity for the authors to present and discuss their tools with SBES attendees from the academia and industry. Academics can present results of their applied research projects in the area of Software Engineering, while industry professionals are also welcome to present commercial or in-house tools that have brought gains in productivity and/or quality to the software development processes.
+ 
+ 
+### IMPORTANT DATES
 
-The goal of the Tools Session is to provide a forum for presentation and demonstration of automated solutions that support the process of developing and managing software systems. 
-It consists of both theoretical presentations and practical exhibitions of the tools, creating a great opportunity for the authors to present and discuss their tools with CBSoft attendees from the academia and industry.
-Academics can present results of their applied research projects in the areas of Software Engineering and Programming Languages, while industry professionals are also welcome to present commercial or in-house tools that have brought gains in productivity and/or quality to the software development processes. 
+- Paper registration (abstract submission) deadline: June 1st, 2020
+- Paper and video upload deadline: June 8th, 2020
+- Rebuttal period: July 06th - July­ 10th, 2020
+- Notification of acceptance: July 17th, 2020
+- Camera-ready deadline: August 7th, 2020
 
-### SUBMISSION
 
-We invite authors to submit papers describing automated solutions for diverse aspects and needs related to the topics of interest and themes listed in the CFP of the four symposia of CBSoft: SBES, SBLP, SBCARS, and SAST.
-Each submission consists of a short paper accompanied by a video about the tool. Submissions must conform to the following submission and formatting instructions:
+*** MANUSCRIPT/VIDEO PREPARATION AND SUBMISSION ***
 
-1. The paper must be original and not submitted or published in other academic vehicles. The paper should clearly include:
+We invite authors to submit papers describing automated solutions for diverse aspects and needs related to the topics of interest and themes listed in the CfP of the SBES. 
+Each submission consists of a paper accompanied by a demo video about the tool. Submissions must conform to the following submission and formatting instructions:
 
-   a) Description of the motivation/problem addressed by the tool;
+1. The paper must be original and not submitted or published in other academic vehicles. 
+
+2. The paper should clearly include:
+   a) Description of the motivation/problem addressed by the tool; 
    b) Description of the main functionalities and potential users of the tool;
-   c) Usage example (e.g., through a case study) and screenshots illustrating the tool interface (where applicable);
-   d) The tool architecture describing the core components and their interfaces;
-   e) A brief comparison with other existing related tools; and
-   f) Type of license.
+   c) Usage example and screenshots illustrating the tool interface (where applicable); 
+   d) Description of the tool architecture, its core components and their interfaces; 
+   e) A brief comparison with existing related tools; and
+   f) The type of software license.
 
-2. Papers may be written in Portuguese or English and must have up to six pages including all figures (in good quality), references and appendices, and formatted according to the SBC template (http://goo.gl/bGc1bh). Papers must be submitted in PDF format. Papers in Portuguese must also include an abstract in English.  
-IMPORTANT: Papers not following these instructions will be automatically rejected (before the review process).
+3. Papers must be no longer than 6 pages, including all figures (in good quality), references and appendices, and formatted according to the ACM 2-column conference (ACM_SigConf) format available at http://www.acm.org/publications/proceedings-template. Papers may be written in Portuguese or English, but papers in Portuguese must also include an abstract in English. Papers must be submitted in Adobe Portable Document Format (PDF).
 
-3. Papers must be accompanied by a video with audio commentary and with high resolution (details of the tool’s functionality should be clearly visible). The video should demonstrate tool usage and highlight the main contributions it provides. It must conform to the following guidelines:
+4. A demo video with audio commentary and with high resolution (details of the tool’s functionality should be clearly visible) MUST accompany the paper submission. 
+The demo video (between three to five minutes long) should demonstrate tool usage and highlight its main contributions. It should provide an overview of the tool, its objectives and envisioned users, main features and outputs as well.
 
-   a) The video should have three to five minutes;
-   b) YouTube link should be placed just below the abstract;
-   c) There should be an announcer presenting the tool. The speech can be in Portuguese or English;
-   d) There should be a brief introduction, giving an overview of the tool and its objectives, the tool's features, and the tool's outputs as well.
-   
-4. Authors are encouraged to make their code and datasets open source, and to provide a URL for the code and datasets with the submission;
-   
-Papers must be submitted electronically through the Tools Track submission site (http:// ...).
-The submission site will be defined soon.  
+There should be an announcer presenting the tool and the speech must be in the same language in which the paper is written. 
+
+5. Authors are encouraged to make the code and datasets of their academic tools open source and provide a URL for them with the submission.
+
+6. The Tools Track will use the single-blind reviewing model, so please include the authors’ identities in the submission materials.
+
+Papers should be submitted electronically through JEMS (https://jems.sbc.org.br/jems2/). Videos should be uploaded to YouTube and made accessible during the time of reviewing. 
+The URL at which your demo video can be found should be appended at the end of the paper abstract.
+
+Submissions that do not include a paper AND a demo video, that are not in compliance with the required submission format, that are out of the scope of the track, or that were submitted or published in any other forum (conference or journal), will be rejected without review. 
+All other papers will be reviewed by at least three program committee members. 
+
+During the review process, we may request a rebuttal; in this case, authors will have access to reviews and may argue and answer questions from the referees before the final acceptance/rejection decision. The rebuttal is limited to a plain text up to 4,000 characters.
 
 ### GENERAL INFORMATION
 
-- The acceptance of the paper implies in at least one author to register for and attend CBSoft 2020 to present the paper and the tool in person.
+The acceptance of the submission implies in at least one author to register for and attend SBES 2020 to present the paper and the tool in person. Both paper presentation and tool demonstration are mandatory for all accepted tools. Paper presentations and tool demonstrations are traditionally held in two different days during SBES.
 
-- The Tools Session is traditionally held in two days:
+Tool demonstrations should be live and the demo videos uploaded for submission should NOT be used.  The format and timing of presentations will be announced later.
 
-   - 1st day: the authors will make oral presentations (theoretical presentation).
-   - 2nd day: the authors will demonstrate their tools (practical demonstration). Note that the practical demonstration is to actually display the tool running. Video submitted for submission should not be used in this demonstration. Both theoretical presentation and practice are mandatory for all accepted tools. 
-The format and timing of each presentation will be announced later.
+### BEST TOOL AWARD
 
-- Each submission will be reviewed by at least three members of the Tools Session program committee. The three tools with the best scores from the program committee and available for the CBSOFT 2020 audience will be awarded.
-
-### IMPORTANT DATES
-
-- Abstract submission: June 8th, 2020 (Monday) 
-- Paper/video submission: June 15th, 2020 (Monday)
-- Author notification:  July 10th, 2020 (Friday)
-- Camera-ready version: July 17th, 2020 (Friday)
-- CBSOFT 2020: September 21-25, 2020.
+Awarded papers of the Tools Track will be announced during the event. The three tools with the best scores from the Program Committee will be awarded. 
 
 ### PROGRAM CO-CHAIRS
-
+ 
 - Christina von Flach G. Chavez (UFBA)
 - Elisa Yumi Nakagawa (ICMC/USP)
 
 ### PROGRAM COMMITTEE
 
-TBD.
+(To be defined)
