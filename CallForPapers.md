@@ -1,6 +1,6 @@
 ## SBES Tools Track - CBSOFT 2020
 
-September 21-25, 2020 -- Natal, RN, Brazil
+September 21-25, 2020 - Natal, RN, Brazil
 
 http://cbsoft2020.imd.ufrn.br/
 
@@ -19,7 +19,7 @@ The Tools Track is an important part of the Brazilian Symposium on Software Engi
 - Camera-ready deadline: August 7th, 2020
 
 
-*** MANUSCRIPT/VIDEO PREPARATION AND SUBMISSION ***
+### MANUSCRIPT/VIDEO PREPARATION AND SUBMISSION
 
 We invite authors to submit papers describing automated solutions for diverse aspects and needs related to the topics of interest and themes listed in the CfP of the SBES. 
 Each submission consists of a paper accompanied by a demo video about the tool. Submissions must conform to the following submission and formatting instructions:
